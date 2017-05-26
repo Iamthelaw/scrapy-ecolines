@@ -2,6 +2,7 @@
 Scraping data from ecolines localized websites for greater good! Get yourself a pack of fresh deals and for god sake - travel a lot!
 
 ## Features
+- crawl all localized sites in seconds
 - duplicate tolerant
 - get prices in 3 main currencies - rub, eur & usd
 - ready to deploy on scrapinghub.com
